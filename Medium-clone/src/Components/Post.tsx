@@ -3,8 +3,7 @@ import React from 'react'
 const Post = () => {
     return (
         <div className='ml-20 '>
-            <div className='my-14'>
-
+            <div className='my-10'>
                 <div className='flex text-[#191919]'>
                     <div>
                         <div className='flex items-center mb-1'>

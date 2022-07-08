@@ -36,7 +36,7 @@ const Trending_Post = () => {
           <div className='flex py-2 w-94'>
             <div className='inline-block'>
               <span className='text-gray-300 font-bold text-4xl'>
-                01
+                02
               </span>
             </div>
             <div className='ml-5'>
@@ -59,7 +59,7 @@ const Trending_Post = () => {
           <div className='flex py-2 w-94'>
             <div className='inline-block'>
               <span className='text-gray-300 font-bold text-4xl'>
-                01
+                03
               </span>
             </div>
             <div className='ml-5'>
@@ -82,7 +82,7 @@ const Trending_Post = () => {
           <div className='flex py-2 w-94'>
             <div className='inline-block'>
               <span className='text-gray-300 font-bold text-4xl'>
-                01
+                04
               </span>
             </div>
             <div className='ml-5'>
@@ -105,7 +105,7 @@ const Trending_Post = () => {
           <div className='flex py-2 w-94'>
             <div className='inline-block'>
               <span className='text-gray-300 font-bold text-4xl'>
-                01
+                05
               </span>
             </div>
             <div className='ml-5'>
@@ -128,7 +128,7 @@ const Trending_Post = () => {
           <div className='flex py-2 w-94'>
             <div className='inline-block'>
               <span className='text-gray-300 font-bold text-4xl'>
-                01
+                06
               </span>
             </div>
             <div className='ml-5'>
