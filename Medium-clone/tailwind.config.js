@@ -17,7 +17,10 @@ module.exports = {
       width: {
         '54': '213px',
         '94': '376px'
-      }
+      },
+      transitionProperty: {
+        'background': 'background 300ms ease 0s',
+      },
     },
   },
   plugins: [],

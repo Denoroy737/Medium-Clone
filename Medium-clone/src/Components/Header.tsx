@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 const Header = () => {
     return (
-        <header className='flex justify-between items-center px-20 py-6 bg-[#FFC017]'>
+        <header className='flex justify-between items-center px-20 py-6 bg-[#FFC017] border-b border-black'>
             <div> {/* Medium Logo */}
                 <Link to="/">
                     <svg viewBox="0 0 3940 610" className='h-7' fill='rgba(0, 0, 0, 1)'>

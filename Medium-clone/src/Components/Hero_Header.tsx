@@ -1,5 +1,6 @@
 import React from 'react'
 import { Link } from "react-router-dom";
+import Post from './Post';
 import Trending_Post from './Trending_Post';
 
 const Hero_Header = () => {
@@ -19,6 +20,12 @@ const Hero_Header = () => {
       </div>
     </div>
     <Trending_Post />  
+    <div className='flex'>
+        <Post />
+      <div>
+
+      </div>
+    </div>
     </>
   )
 }
